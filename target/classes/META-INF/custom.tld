@@ -1,0 +1,12 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Hello World Tag</short-name>
+    <uri>http://danner.com/tags</uri>
+    <tag>
+        <name>Hello</name>
+        <tag-class>com.danner.helloWorld.HelloWorldTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+</taglib>
